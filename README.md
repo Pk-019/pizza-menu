@@ -2,6 +2,8 @@
 
 This is a beginner-friendly React learning app, built from scratch. It provides a hands-on approach to understanding core React concepts and is perfect for those starting their journey in React development.
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Features
 - Built from scratch for better learning
 - Covers fundamental React concepts
